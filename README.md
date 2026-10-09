@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Deedee 👋
 
-<!--
-**Deedi01/Deedi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Psychology graduate (University of Port Harcourt) turned **data analyst**, based in Port Harcourt, Nigeria.
 
-Here are some ideas to get you started:
+I combine an understanding of people with data skills to turn raw numbers into clear, useful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+- **Excel:** data cleaning, XLOOKUP/VLOOKUP, IFS, dashboards
+- **SQL (MySQL):** database querying
+- **Power BI:** data visualizations and reporting
+
+Projects
+- **Healthcare Patient Analytics (Excel, Power BI):** coming soon
+- **Customer Conversion Funnel Analysis (Power BI):**
+
+ Certification
+Data Analytics Training Program, Zyetech Innovation Technologies (Oct 2026)
+
+## 📫 Connect with me
+- LinkedIn: linkedin.com/in/udo-edidiong-charles-8344b7243
+- Email: udoedidiong176@gmail.com
+
+Open to opportunities in data analysis, recruitment, operations, and finance-related roles.
