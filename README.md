@@ -4,16 +4,16 @@ Psychology graduate (University of Port Harcourt) turned **data analyst**, based
 
 I combine an understanding of people with data skills to turn raw numbers into clear, useful insights.
 
-Skills
+**Skills**
 - **Excel:** data cleaning, XLOOKUP/VLOOKUP, IFS, dashboards
 - **SQL (MySQL):** database querying
 - **Power BI:** data visualizations and reporting
 
-Projects
+**Projects**
 - **Healthcare Patient Analytics (Excel, Power BI):** coming soon
 - **Customer Conversion Funnel Analysis (Power BI):**
 
- Certification
+ **Certification**
 Data Analytics Training Program, Zyetech Innovation Technologies (Oct 2026)
 
 ## 📫 Connect with me
